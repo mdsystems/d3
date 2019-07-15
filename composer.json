@@ -1,0 +1,10 @@
+{
+    "name": "mdsystems/d3",
+    "description": "Forked version of d3 https://github.com/d3/d3",
+    "type": "library",
+    "require": {
+        "components/jquery": "^3.3"
+    },
+    "license": "New BSD",
+    "minimum-stability": "dev"
+}
